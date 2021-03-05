@@ -1,4 +1,5 @@
-bin
-gifek
+bin/
+gifek/
 .classpath
 .project
+.settings/
